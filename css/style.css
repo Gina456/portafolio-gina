@@ -84,8 +84,7 @@ border-radius: 100%;
 margin-top: 2rem;
 }
 .container__imagen{
-  background-image: url(../imagenes/Gina.jpg)
-
+  background-image: url(https://github.com/Gina456/portafolio-gina/blob/master/imagenes/Gina.jpg?raw=true);
 }
 
 .checkbtn{
